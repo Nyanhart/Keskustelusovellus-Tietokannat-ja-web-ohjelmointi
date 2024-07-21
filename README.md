@@ -2,7 +2,7 @@
 
 Valitsin sovelluksen aiheeksi kurssialueella ehdotetuista valmiista esimerkeistä keskustelusovelluksen. 
 
-(Kurssialueella oleva kuvaus)
+(Kurssialueella oleva kuvaus:)
 Sovelluksessa näkyy keskustelualueita, joista jokaisella on tietty aihe. Alueilla on keskusteluketjuja, jotka muodostuvat viesteistä. Jokainen käyttäjä on peruskäyttäjä tai ylläpitäjä.
 
 Sovelluksen ominaisuuksia:
